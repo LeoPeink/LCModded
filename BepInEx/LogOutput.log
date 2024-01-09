@@ -1,0 +1,116 @@
+[Message:   BepInEx] BepInEx 5.4.21.0 - Lethal Company (07/12/2023 22:02:50)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 0 plugins to load
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] Saving changed settings
+[Info   : Unity Log] subcribing to steam callbacks
+[Info   : Unity Log] Returning week num: 4
+[Info   : Unity Log] week num: 4
+[Info   : Unity Log] host button pressed
+[Info   : Unity Log] Returning week num: 4
+[Info   : Unity Log] Displaying menu message
+[Info   : Unity Log] Connection approval callback! Game version of client request: 
+[Info   : Unity Log] Joining client id: 0; Local/host client id: 0
+[Info   : Unity Log] Stopped connection approval callback, as the client in question was the host!
+[Warning: Unity Log] [Netcode] You cannot decline the host connection. The connection was automatically approved.
+[Info   : Unity Log] started host!
+[Info   : Unity Log] are we in a server?: True
+[Info   : Unity Log] Lobby has been created
+[Info   : Unity Log] Enabling connection callbacks in StartOfRound
+[Info   : Unity Log] Began listening to SceneManager_OnLoadComplete1 on this client
+[Warning: Unity Log] damageTrigger is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Info   : Unity Log] level id: 0
+[Info   : Unity Log] Changing level
+[Info   : Unity Log] Item sales percentages #0: 0
+[Info   : Unity Log] Item sales percentages #1: 0
+[Info   : Unity Log] Item sales percentages #2: 0
+[Info   : Unity Log] Item sales percentages #3: 0
+[Info   : Unity Log] Item sales percentages #4: 0
+[Info   : Unity Log] Item sales percentages #5: 0
+[Info   : Unity Log] Item sales percentages #6: 0
+[Info   : Unity Log] Item sales percentages #7: 0
+[Info   : Unity Log] Item sales percentages #8: 0
+[Info   : Unity Log] Item sales percentages #9: 0
+[Info   : Unity Log] Item sales percentages #10: 0
+[Info   : Unity Log] Item sales percentages #11: 0
+[Info   : Unity Log] Item sales percentages #12: 0
+[Error  : Unity Log] Error attempting to load ship unlockables on the host: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+  at System.Collections.Generic.List`1[T].get_Item (System.Int32 index) [0x00009] in <787acc3c9a4c471ba7d971300105af24>:0 
+  at StartOfRound.LoadUnlockables () [0x00035] in <af9b1eec498a45aebd42601d6ab85015>:0 
+[Info   : Unity Log] Key 'shipGrabbableItems' does not exist
+[Info   : Unity Log] Item sales percentages #0: 0
+[Info   : Unity Log] Item sales percentages #1: 0
+[Info   : Unity Log] Item sales percentages #2: 0
+[Info   : Unity Log] Item sales percentages #3: 0
+[Info   : Unity Log] Item sales percentages #4: 0
+[Info   : Unity Log] Item sales percentages #5: 0
+[Info   : Unity Log] Item sales percentages #6: 0
+[Info   : Unity Log] Item sales percentages #7: 0
+[Info   : Unity Log] Item sales percentages #8: 0
+[Info   : Unity Log] Item sales percentages #9: 0
+[Info   : Unity Log] Item sales percentages #10: 0
+[Info   : Unity Log] Item sales percentages #11: 0
+[Info   : Unity Log] Item sales percentages #12: 0
+[Info   : Unity Log] Group credits: 60
+[Info   : Unity Log] Taking control of player Player and enabling camera!
+[Info   : Unity Log] Starting voice tracking for player: IlLezzoDiTurno
+[Info   : Unity Log] !!!! ENABLING CAMERA FOR PLAYER: Player
+[Info   : Unity Log] !!!! connectedPlayersAmount: 0
+[Info   : Unity Log] Has beta?: {hasBeta}
+[Info   : Unity Log] Has beta save data: True
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/LightSwitchContainer/PlacementCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/AnimatedShipDoor/HangarDoorLeft (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ControlDesk.001"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
+[Warning: Unity Log] [Dissonance:Recording] (18:24:32.255) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0,3794638)
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/StorageCloset/Cube.000/Cube"
+[Info   : Unity Log] Leaving current lobby
+[Info   : Unity Log] Disconnecting and setting networkobjects to destroy with owner
+[Info   : Unity Log] Got no ship grabbable items to save.
+[Info   : Unity Log] Server is not active; quitting to main menu
+[Info   : Unity Log] Resetting unlockables list!
+[Info   : Unity Log] DISABLING connection callbacks in round manager
+[Info   : Unity Log] Terminal disabled, disabling ESC key listener
+[Info   : Unity Log] unsubscribing from steam callbacks
