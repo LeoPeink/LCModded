@@ -10,7 +10,89 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 0 plugins to load
+[Info   :   BepInEx] 13 plugins to load
+[Warning:   BepInEx] Plugin [AdditionalSuits 1.1.3] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [HDLethalCompany-Sligili 1.5.6] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [HealthMetrics 1.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Info   :   BepInEx] Loading [AdditionalSuits 1.1.3]
+[Info   :ACS.AdditionalSuits] AdditionalSuits - initializing...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - initialized!
+[Info   :   BepInEx] Loading [ShipLoot 1.0]
+[Info   :   BepInEx] Loading [HDLethalCompany-Sligili 1.5.6]
+[Info   :HDLethalCompany-Sligili] HDLethalCompany loaded
+[Info   :   BepInEx] Loading [MaskTheDead 1.0.3]
+[Info   :MaskTheDead] Plugin MaskTheDead is loaded!
+[Info   :   BepInEx] Loading [HealthMetrics 1.0.0]
+[Info   :Matsuura.HealthMetrics] HealthMetrics Awake
+[Info   :   BepInEx] Loading [MoreCompany 1.7.4]
+[Info   :MoreCompany] Loading MoreCompany...
+[Info   :MoreCompany] Checking: D:\SteamGames\steamapps\common\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
+[Info   :MoreCompany] Read settings and cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.denimhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.gunholster from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.hardhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.jesterhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.kittyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.mimemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancypants from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.outoforder from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.plaguemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.propellerhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.eyeballs from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.rudolph from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.santahat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.slimething from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.tophat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.watch from bundle
+[Info   :MoreCompany] Loading USER COSMETICS...
+[Info   :MoreCompany] Loaded MoreCompany FULLY
+[Info   :   BepInEx] Loading [Kilogrammes 1.0.0.0]
+[Info   :Kilogrammes] Loading Kilogrammes
+[Info   :   BepInEx] Loading [Skinwalker Mod 2.0.5]
+[Info   :RugbugRedfern.SkinwalkerMod] SKINWALKER MOD STARTING UP 2.0.5
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BaboonHawk VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Bracken VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BunkerSpider VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Centipede VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_CoilHead VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_EyelessDog VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_ForestGiant VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GhostGirl VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GiantWorm VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_HoardingBug VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Hygrodere VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Jester VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Masked VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Nutcracker VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_SporeLizard VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Thumper VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_OtherEnemies VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceLineFrequency VALUE LOADED FROM CONFIG: [2,75]
+[Info   :RugbugRedfern.SkinwalkerMod] Skinwalker Mod Object Initialized
+[Info   :   BepInEx] Loading [LC Always Hear Active Walkies 1.4.4]
+[Info   :suskitech.LCAlwaysHearActiveWalkie] \ /
+[Info   :suskitech.LCAlwaysHearActiveWalkie] /|\
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |----|
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |[__]| Always Hear Active Walkies
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |.  .| Version 1.4.4 Loaded
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |____|
+[Info   :suskitech.LCAlwaysHearActiveWalkie] 
+[Info   :suskitech.LCAlwaysHearActiveWalkie] AudibleDistance: 12
+[Info   :suskitech.LCAlwaysHearActiveWalkie] WalkieRecordingRange: 20
+[Info   :suskitech.LCAlwaysHearActiveWalkie] PlayerToPlayerSpatialHearingRange: 20
+[Info   :   BepInEx] Loading [CoilHeadStare 1.0.3]
+[Info   :TDP.CoilHeadStare] CoilHeadStare 1.0.3 loaded.
+[Info   :   BepInEx] Loading [Late Company 1.0.10]
+[Info   :Late Company] Late Company loaded!
+[Info   :   BepInEx] Loading [WeatherMultipliers 1.1.0]
+[Info   :WeatherMultipliers] Plugin WeatherMultipliers is loaded!
+[Info   :   BepInEx] Loading [Mimics 2.3.2]
+[Info   :    Mimics] Plugin Mimics is loaded!
 [Message:   BepInEx] Chainloader startup complete
 [Info   : Unity Log] Saving changed settings
 [Info   : Unity Log] subcribing to steam callbacks
@@ -26,10 +108,48 @@
 [Info   : Unity Log] started host!
 [Info   : Unity Log] are we in a server?: True
 [Info   : Unity Log] Lobby has been created
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamGames/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
 [Info   : Unity Log] Enabling connection callbacks in StartOfRound
 [Info   : Unity Log] Began listening to SceneManager_OnLoadComplete1 on this client
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Info   :RugbugRedfern.SkinwalkerMod] HOST SENDING CONFIG TO CLIENTS
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager Awake
+[Info   : Unity Log] Initialized SkinwalkerNetworkManager
 [Warning: Unity Log] damageTrigger is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
-[Info   : Unity Log] level id: 0
+[Info   :ACS.AdditionalSuits] AdditionalSuits - attempting to parse json file: D:\SteamGames\steamapps\common\Lethal Company\BepInEx\plugins\resAdditionalSuits\suit-defs.json
+[Info   :ACS.AdditionalSuits] AdditionalSuits - converting json file to manifest...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - attempting to parse json file:  items were found...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=0_Red_Suit, name=Red Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=0_Red_Suit, name=Red Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=1_Yellow_Suit, name=Yellow Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=1_Yellow_Suit, name=Yellow Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=2_Green_Suit, name=Green Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=2_Green_Suit, name=Green Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=3_Blue_Suit, name=Blue Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=3_Blue_Suit, name=Blue Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=4_Purple_Suit, name=Purple Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=4_Purple_Suit, name=Purple Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=5_Pink_Suit, name=Pink Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=5_Pink_Suit, name=Pink Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=6_White_Suit, name=White Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=6_White_Suit, name=White Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=7_Black_Suit, name=Black Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=7_Black_Suit, name=Black Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - loaded item defs from json file!
+[Info   : Unity Log] level id: 7
 [Info   : Unity Log] Changing level
 [Info   : Unity Log] Item sales percentages #0: 0
 [Info   : Unity Log] Item sales percentages #1: 0
@@ -44,11 +164,134 @@
 [Info   : Unity Log] Item sales percentages #10: 0
 [Info   : Unity Log] Item sales percentages #11: 0
 [Info   : Unity Log] Item sales percentages #12: 0
-[Error  : Unity Log] Error attempting to load ship unlockables on the host: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-  at System.Collections.Generic.List`1[T].get_Item (System.Int32 index) [0x00009] in <787acc3c9a4c471ba7d971300105af24>:0 
-  at StartOfRound.LoadUnlockables () [0x00035] in <af9b1eec498a45aebd42601d6ab85015>:0 
-[Info   : Unity Log] Key 'shipGrabbableItems' does not exist
+[Info   : Unity Log] Placing scene object at saved position: Terminal
+[Info   : Unity Log] Loading placed object position as: (10.08, 1.93, -11.87)
+[Info   : Unity Log] Saving placed position as: (10.08, 1.93, -11.87)
+[Info   : Unity Log] DISABLE OBJECT A
+[Info   : Unity Log] DISABLE OBJECT A
+[Info   : Unity Log] DISABLE OBJECT A
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Info   : Unity Log] Suits: 1
+[Info   : Unity Log] Suit #0: 0
+[Info   : Unity Log] pos: (-2.45, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Info   : Unity Log] Suits: 2
+[Info   : Unity Log] Suit #0: 0
+[Info   : Unity Log] pos: (-2.45, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #1: 0
+[Info   : Unity Log] pos: (-2.27, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Info   : Unity Log] Suits: 3
+[Info   : Unity Log] Suit #0: 0
+[Info   : Unity Log] pos: (-2.45, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #1: 0
+[Info   : Unity Log] pos: (-2.27, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #2: 0
+[Info   : Unity Log] pos: (-2.09, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Info   : Unity Log] Suits: 4
+[Info   : Unity Log] Suit #0: 0
+[Info   : Unity Log] pos: (-2.45, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #1: 0
+[Info   : Unity Log] pos: (-2.27, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #2: 0
+[Info   : Unity Log] pos: (-2.09, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #3: 0
+[Info   : Unity Log] pos: (-1.91, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Info   : Unity Log] Suits: 5
+[Info   : Unity Log] Suit #0: 0
+[Info   : Unity Log] pos: (-2.45, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #1: 0
+[Info   : Unity Log] pos: (-2.27, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #2: 0
+[Info   : Unity Log] pos: (-2.09, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #3: 0
+[Info   : Unity Log] pos: (-1.91, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #4: 0
+[Info   : Unity Log] pos: (-1.73, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Info   : Unity Log] Suits: 6
+[Info   : Unity Log] Suit #0: 0
+[Info   : Unity Log] pos: (-2.45, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #1: 0
+[Info   : Unity Log] pos: (-2.27, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #2: 0
+[Info   : Unity Log] pos: (-2.09, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #3: 0
+[Info   : Unity Log] pos: (-1.91, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #4: 0
+[Info   : Unity Log] pos: (-1.73, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #5: 0
+[Info   : Unity Log] pos: (-1.55, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Info   : Unity Log] Suits: 7
+[Info   : Unity Log] Suit #0: 0
+[Info   : Unity Log] pos: (-2.45, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #1: 0
+[Info   : Unity Log] pos: (-2.27, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #2: 0
+[Info   : Unity Log] pos: (-2.09, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #3: 0
+[Info   : Unity Log] pos: (-1.91, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #4: 0
+[Info   : Unity Log] pos: (-1.73, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #5: 0
+[Info   : Unity Log] pos: (-1.55, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #6: 0
+[Info   : Unity Log] pos: (-1.37, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Info   : Unity Log] Suits: 8
+[Info   : Unity Log] Suit #0: 0
+[Info   : Unity Log] pos: (-2.45, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #1: 0
+[Info   : Unity Log] pos: (-2.27, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #2: 0
+[Info   : Unity Log] pos: (-2.09, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #3: 0
+[Info   : Unity Log] pos: (-1.91, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #4: 0
+[Info   : Unity Log] pos: (-1.73, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #5: 0
+[Info   : Unity Log] pos: (-1.55, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #6: 0
+[Info   : Unity Log] pos: (-1.37, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #7: 0
+[Info   : Unity Log] pos: (-1.19, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Info   : Unity Log] Suits: 9
+[Info   : Unity Log] Suit #0: 0
+[Info   : Unity Log] pos: (-2.45, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #1: 0
+[Info   : Unity Log] pos: (-2.27, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #2: 0
+[Info   : Unity Log] pos: (-2.09, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #3: 0
+[Info   : Unity Log] pos: (-1.91, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #4: 0
+[Info   : Unity Log] pos: (-1.73, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #5: 0
+[Info   : Unity Log] pos: (-1.55, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #6: 0
+[Info   : Unity Log] pos: (-1.37, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #7: 0
+[Info   : Unity Log] pos: (-1.19, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Suit #8: 0
+[Info   : Unity Log] pos: (-1.01, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Ship grabbable items list loaded. Count: 15
+[Info   : Unity Log] Setting scrap value for item: EnginePart(Clone): 32
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Target).
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Target).
+[Info   : Unity Log] Setting scrap value for item: MetalSheet(Clone): 15
+[Info   : Unity Log] Setting scrap value for item: BigBolt(Clone): 29
+[Info   : Unity Log] Setting scrap value for item: Hairbrush(Clone): 20
+[Info   : Unity Log] Setting scrap value for item: FishTestProp(Clone): 28
+[Info   : Unity Log] Setting scrap value for item: Cog(Clone): 47
+[Info   : Unity Log] Setting scrap value for item: LungApparatusTurnedOff(Clone): 80
+[Info   : Unity Log] Setting scrap value for item: BinFullOfBottles(Clone): 54
+[Info   : Unity Log] Setting scrap value for item: EnginePart(Clone): 28
+[Info   : Unity Log] Setting scrap value for item: Airhorn(Clone): 59
+[Info   : Unity Log] Setting scrap value for item: MetalSheet(Clone): 10
 [Info   : Unity Log] Item sales percentages #0: 0
 [Info   : Unity Log] Item sales percentages #1: 0
 [Info   : Unity Log] Item sales percentages #2: 0
@@ -62,7 +305,8 @@ Parameter name: index
 [Info   : Unity Log] Item sales percentages #10: 0
 [Info   : Unity Log] Item sales percentages #11: 0
 [Info   : Unity Log] Item sales percentages #12: 0
-[Info   : Unity Log] Group credits: 60
+[Info   : Unity Log] Group credits: 145
+[Warning: Unity Log] TerminalKeyword must be instantiated using the ScriptableObject.CreateInstance method instead of new TerminalKeyword.
 [Info   : Unity Log] Taking control of player Player and enabling camera!
 [Info   : Unity Log] Starting voice tracking for player: IlLezzoDiTurno
 [Info   : Unity Log] !!!! ENABLING CAMERA FOR PLAYER: Player
@@ -102,15 +346,94 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Warning: Unity Log] BoxColliders does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
-[Warning: Unity Log] [Dissonance:Recording] (18:24:32.255) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0,3794638)
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/EnginePart(Clone)/ScanNode"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/EnginePart(Clone)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/EnginePart(Clone)/ScanNode"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/EnginePart(Clone)"
 [Warning: Unity Log] BoxColliders does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/StorageCloset/Cube.000/Cube"
+[Debug  :  ShipLoot] Calculating total ship scrap value.
+[Debug  :  ShipLoot] EnginePart(Clone) - $32
+[Debug  :  ShipLoot] WalkieTalkie(Clone) - $0
+[Debug  :  ShipLoot] WalkieTalkie(Clone) - $0
+[Debug  :  ShipLoot] MetalSheet(Clone) - $15
+[Debug  :  ShipLoot] BigBolt(Clone) - $29
+[Debug  :  ShipLoot] Hairbrush(Clone) - $20
+[Debug  :  ShipLoot] FishTestProp(Clone) - $28
+[Debug  :  ShipLoot] Cog(Clone) - $47
+[Debug  :  ShipLoot] LungApparatusTurnedOff(Clone) - $80
+[Debug  :  ShipLoot] BinFullOfBottles(Clone) - $54
+[Debug  :  ShipLoot] EnginePart(Clone) - $28
+[Debug  :  ShipLoot] Airhorn(Clone) - $59
+[Debug  :  ShipLoot] BBFlashlight(Clone) - $0
+[Debug  :  ShipLoot] Key(Clone) - $3
+[Debug  :  ShipLoot] MetalSheet(Clone) - $10
+[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamGames/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
+[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
+[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
+[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamGames/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
+[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
+[Debug  :  ShipLoot] Calculating total ship scrap value.
+[Debug  :  ShipLoot] EnginePart(Clone) - $32
+[Debug  :  ShipLoot] WalkieTalkie(Clone) - $0
+[Debug  :  ShipLoot] WalkieTalkie(Clone) - $0
+[Debug  :  ShipLoot] MetalSheet(Clone) - $15
+[Debug  :  ShipLoot] BigBolt(Clone) - $29
+[Debug  :  ShipLoot] Hairbrush(Clone) - $20
+[Debug  :  ShipLoot] FishTestProp(Clone) - $28
+[Debug  :  ShipLoot] Cog(Clone) - $47
+[Debug  :  ShipLoot] LungApparatusTurnedOff(Clone) - $80
+[Debug  :  ShipLoot] BinFullOfBottles(Clone) - $54
+[Debug  :  ShipLoot] EnginePart(Clone) - $28
+[Debug  :  ShipLoot] Airhorn(Clone) - $59
+[Debug  :  ShipLoot] BBFlashlight(Clone) - $0
+[Debug  :  ShipLoot] Key(Clone) - $3
+[Debug  :  ShipLoot] MetalSheet(Clone) - $10
+[Debug  :  ShipLoot] Calculating total ship scrap value.
+[Debug  :  ShipLoot] EnginePart(Clone) - $32
+[Debug  :  ShipLoot] WalkieTalkie(Clone) - $0
+[Debug  :  ShipLoot] WalkieTalkie(Clone) - $0
+[Debug  :  ShipLoot] MetalSheet(Clone) - $15
+[Debug  :  ShipLoot] BigBolt(Clone) - $29
+[Debug  :  ShipLoot] Hairbrush(Clone) - $20
+[Debug  :  ShipLoot] FishTestProp(Clone) - $28
+[Debug  :  ShipLoot] Cog(Clone) - $47
+[Debug  :  ShipLoot] LungApparatusTurnedOff(Clone) - $80
+[Debug  :  ShipLoot] BinFullOfBottles(Clone) - $54
+[Debug  :  ShipLoot] EnginePart(Clone) - $28
+[Debug  :  ShipLoot] Airhorn(Clone) - $59
+[Debug  :  ShipLoot] BBFlashlight(Clone) - $0
+[Debug  :  ShipLoot] Key(Clone) - $3
+[Debug  :  ShipLoot] MetalSheet(Clone) - $10
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamGames/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
 [Info   : Unity Log] Leaving current lobby
 [Info   : Unity Log] Disconnecting and setting networkobjects to destroy with owner
-[Info   : Unity Log] Got no ship grabbable items to save.
-[Info   : Unity Log] Server is not active; quitting to main menu
+[Info   : Unity Log] Shutting down and disconnecting from server. Is host?: True
 [Info   : Unity Log] Resetting unlockables list!
-[Info   : Unity Log] DISABLING connection callbacks in round manager
+[Info   : Unity Log] Scene manager is null
 [Info   : Unity Log] Terminal disabled, disabling ESC key listener
-[Info   : Unity Log] unsubscribing from steam callbacks
+[Info   : Unity Log] DISABLING connection callbacks in round manager
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy
+[Info   : Unity Log] Returning week num: 4
+[Info   : Unity Log] week num: 4
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+ShipLoot.Patches.HudManagerPatcher+<ShipLootCoroutine>d__5.MoveNext () (at <e8939e1999114c978de460e01d1a93e3>:0)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <e27997765c1848b09d8073e5d642717a>:0)
+
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/SteamGames/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
